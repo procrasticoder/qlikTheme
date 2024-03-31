@@ -1,0 +1,13 @@
+.qvt-sheet {
+    background: #2e2e2e !important;
+}
+.qv-client.qv-card #qv-stage-container #grid .qv-object-wrapper .qv-inner-object{
+    border-radius: 0px !important;
+}
+.qv-client.qv-card #qv-stage-container #grid .qv-object-wrapper .qv-object{
+    border: 1px solid #1c1c1c !important;
+    /* border-radius: 0px !important; */
+}
+.RowColumn-rowBorderBottom{
+    border-bottom: 1px solid rgb(255 255 255 / 12%) !important;
+}
